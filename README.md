@@ -4,13 +4,13 @@
 ## Hi there! 👋 I am Yasal Fatima
 
 <h1>
-👤 INTRODUCTION:
+👤 Introduction:
   
 </h1>
 
  I am a passionate BS Artificial Intelligence student with a strong interest in cutting-edge technologies and emerging trends in the tech industry. I enjoy exploring areas such as Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision. I am eager to stay updated with the latest advancements in AI. My goal is to continuously develop my technical skills, contribute to impactful projects, and build a successful career as an AI professional.
 
-# 💪 SKILL SET:
+# 💪 Skills set:
 
 <a href="https://github.com/Yasal95/Yasal95">
 <p aign="left">
@@ -18,7 +18,7 @@
 </p>
 </a>
 
-# 🔗 CONNECT WITH ME:
+# 🔗 Connect with me:
 
 <a href="https://github.com/Yasal95/Yasal95">
 <p aign="left">
@@ -26,4 +26,13 @@
 </p>
 </a>
 
-# 🏅 My ACHIEVEMENTS:
+# 🏅 My achievements:
+ </h>
+
+ 𐀪𐀪 Participation in setting of Gennius World Record as world's largest national waving flag of Pakistan in 2025.
+ 🧮 Participation in 1st Falcon Hunt Compitition in Mathematics Contest at climber level.
+ 👩🏻‍💻 Active participant of international hackathons.
+
+ 
+ 
+ 
