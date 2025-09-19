@@ -14,6 +14,6 @@ INTRODUCTION:
 
 <a href="https://github.com/Yasal95/Yasal95">
 <p aign="left">
-<img src=,https://skills.syvixor.com/api/icons?i=chatgpt" />
+<img src="https://skills.syvixor.com/api/icons?i=chatgpt" />
 </p>
 </a>
