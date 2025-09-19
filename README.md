@@ -17,3 +17,7 @@ INTRODUCTION:
 <img src="https://skills.syvixor.com/api/icons?i=chatgpt,slack,c,capcut,canva" />
 </p>
 </a>
+# CONNECT WITH ME:
+<a href="https://github.com/Yasal95/Yasal95">
+<p aign="left">
+<img src="https://skills.syvixor.com/api/icons?i=linkedin,discord,instagram" />
