@@ -1,7 +1,7 @@
 <a href="https://github.com/Yasal95/Yasal95">
 <img height="auto" weight="100%" src="https://github-widgetbox.vercel.app/api/profile?username=yasal95&data=followers,repositries,stars,commit&theme=rgb">
   
-## Hi there 👋 I am Yasal Fatima
+## Hi there! 👋 I am Yasal Fatima
 
 <h1>
 INTRODUCTION:
@@ -14,6 +14,6 @@ INTRODUCTION:
 
 <a href="https://github.com/Yasal95/Yasal95">
 <p aign="left">
-<img src="https://skills.syvixor.com/api/icons?i=chatgpt" />
+<img src="https://skills.syvixor.com/api/icons?i=chatgpt,deep,slack,c,capcut,canva" />
 </p>
 </a>
