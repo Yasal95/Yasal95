@@ -3,4 +3,6 @@
   
 ## Hi there 👋 I am Yasal Fatima
 
-<h1> I am a student
+<h1>
+INTRODUCTION:
+ I am a passionate BS Artificial Intelligence student with a strong interest in cutting-edge technologies and emerging trends in the tech industry. I enjoy exploring areas such as Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision. I am eager to stay updated with the latest advancements in AI. My goal is to continuously develop my technical skills, contribute to impactful projects, and build a successful career as an AI professional.
