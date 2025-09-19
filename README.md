@@ -30,8 +30,8 @@
  </h>
 
  𐀪𐀪 Participation in setting of Gennius World Record as world's largest national waving flag of Pakistan in 2025.
-# 🧮 Participation in 1st Falcon Hunt Compitition in Mathematics Contest at climber level.
-# 👩🏻‍💻 Active participant of international hackathons.
+ 🧮 Participation in 1st Falcon Hunt Compitition in Mathematics Contest at climber level.
+ 👩🏻‍💻 Active participant of international hackathons.
 
 # 📈 GitHub Stats:
 <p align=center">
