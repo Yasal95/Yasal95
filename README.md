@@ -33,10 +33,10 @@
  🧮 Participation in 1st Falcon Hunt Compitition in Mathematics Contest at climber level.
  👩🏻‍💻 Active participant of international hackathons.
 
-#  Github Stats: 
+
 <p align=center">
 <a href="https://github.com/arhamansari11/arhamansari11">
-<img height="180em src="https://github-readme-stats-git-
+<img height="180em src="https://github-readme-stat-git-masterrsta-rickstaa.versal.app
 _border=true"
 </a>
 </p>
