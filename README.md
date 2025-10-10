@@ -14,7 +14,7 @@
 
 <a href="https://github.com/Yasal95/Yasal95">
 <p aign="left">
-<img src="https://skills.syvixor.com/api/icons?i=chatgpt,slack,c,capcut,canva,chrome,drive,groq,flowise" />
+<img src="https://skills.syvixor.com/api/icons?i=chatgpt,slack,c,capcut,canva,chrome,drive,groq,colab" />
 </p>
 </a>
 
