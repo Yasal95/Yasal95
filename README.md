@@ -65,14 +65,14 @@
  🧮 Participation in 1st Falcon Hunt Competition in Mathematics Contest at climber level.
  👩🏻‍💻 Active participant of international hackathons and coding competitions.
 
-## 📊 GitHub Stats
+  ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yasal95&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasal95&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yasal95&theme=tokyonight" alt="GitHub Streak"/>
 </p>
-
 
