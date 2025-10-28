@@ -14,9 +14,9 @@
 
 <a href="https://github.com/Yasal95/Yasal95">
 <p aign="left">
-<img src="https://skills.syvixor.com/api/icons?i=chatgpt,slack,c,capcut,canva,chrome,drive,groq,colab,flowise,gamma,notebooklm,claude  />
+<img src="https://skills.syvixor.com/api/icons?i=chatgpt,slack,c,capcut,canva,chrome,drive,groq,colab,flowise,gamma,notebooklm,claude" />
   </p>
-</a>
+  </a>
 
 # 🔗 Connect with me:
 
@@ -29,10 +29,8 @@
 # 🏅 My achievements:
  </h>
 
- 𐀪𐀪 Participation in setting Gennius World Record as world's largest national waving flag of Pakistan in 2025.
- 
+ 𐀪𐀪 Participation in setting Gennius World Record as world's largest national waving flag of Pakistan in 2025. 
  🧮 Participation in 1st Falcon Hunt Compitition in Mathematics Contest at climber level.
- 
  👩🏻‍💻 Active participant of international hackathons and coding competitions.
 
 
