@@ -12,7 +12,7 @@
 
 # 🛠️ Skills & Technologies:
 
-### AI & Machine Learning 🤖  
+ ### AI & Machine Learning 🤖  
 ![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -20,8 +20,8 @@
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Flowise](https://img.shields.io/badge/Flowise-3B82F6?style=for-the-badge&logo=flowise&logoColor=white)
 
-### Programming Languages 🐍
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+                                                                     ### Programming Languages 🐍
+                                     ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Development Tools ⚙️
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
