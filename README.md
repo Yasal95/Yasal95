@@ -20,11 +20,10 @@
 
 # 🔗 Connect with me:
 
-<a href="https://github.com/Yasal95/Yasal95">
-<p aign="left">
-<img src="https://skills.syvixor.com/api/icons?i=linkedin,discord,instagram,github,gmail" />
-</p>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasal-fatima-9600a4381)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Yasal95)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](yasalfatima95@gmail.com)
 
 # 🏅 My achievements:
  </h>
