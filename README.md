@@ -51,22 +51,6 @@
   <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
 </p>
 
-###                                                                         Programming Languages 🐍
-   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-###                                                                           Development Tools ⚙️
-  ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-  ![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
-  ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-
-###                                                                           Design & Media 🎬
-   ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-    ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
-
-###                                                                       Collaboration & Productivity 🤝
-  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-  ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
-
 # 🔗 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasal-fatima-9600a4381)
@@ -82,18 +66,4 @@
  👩🏻‍💻 Active participant of international hackathons and coding competitions.
 
 
-<p align=center">
-<a href="https://github.com/arhamansari11/arhamansari11">
-<img height="180em src="https://github-readme-stat-git-masterrsta-rickstaa.versal.app
-_border=true"
-</a>
-</p>
-
-
- <p align=center">
-<a href="https://github.com/Yasal95/Yasal95">
- <img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=yasal95&show_icons=true%locale=en&layout=demo&theme=nightow1&hide
-_border=true" />
-</a>
-</p>
 
