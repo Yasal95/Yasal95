@@ -8,7 +8,13 @@
   
 </h1>
 
- I am a passionate BS Artificial Intelligence student with a strong interest in cutting-edge technologies and emerging trends in the tech industry. I enjoy exploring areas such as Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision. I am eager to stay updated with the latest advancements in AI. My goal is to continuously develop my technical skills, contribute to impactful projects, and build a successful career as an AI professional.
+ I am a BS Medical Laboratory Technology student at Government College University, Lahore, passionate about the intersection of clinical diagnostics and artificial intelligence.
+
+While mastering core lab disciplines; hematology, clinical biochemistry, microbiology, and molecular diagnostics, I am independently building skills in data science and machine learning to understand how AI can enhance laboratory accuracy, efficiency, and patient outcomes.
+
+Pakistan's diagnostic landscape is evolving, and I believe the future belongs to labs that combine strong bench science with smart technology.
+
+Currently learning: Python, data analysis, and AI applications in pathology. Always open to connecting with lab professionals, researchers, and health-tech innovators.
 
 # 🛠️ Skills & Technologies:
 
@@ -20,6 +26,8 @@
   <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://kimi-web-img.kimi.ai/img/uxwing.com/dd5318c048efaa189c9cd2660d813cabdd9edf22.png" alt="Kimi" width="40" height="40">
+
   <img src="https://img.shields.io/badge/Flowise-3B82F6?style=for-the-badge&logo=flowise&logoColor=white" />
 </p>
 
@@ -55,9 +63,8 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100093710235831)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasal-fatima-9600a4381)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Yasal95)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](yasalfatima95@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](yasalfatima115@gmail.com)
 
 # 🏅 My achievements:
  </h>
