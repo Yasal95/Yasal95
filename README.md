@@ -23,7 +23,8 @@ Currently learning: Python, data analysis, and AI applications in pathology. Alw
   <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
- <img src="https://kimi-web-img.kimi.ai/img/uxwing.com/dd5318c048efaa189c9cd2660d813cabdd9edf22.png" alt="Kimi" width="40" height="40"> 
+ ![Kimi](https://img.shields.io/badge/Kimi-000000?style=for-the-badge&logo=kimi&logoColor=white)
+
 
   <img src="https://img.shields.io/badge/Flowise-3B82F6?style=for-the-badge&logo=flowise&logoColor=white" />
 </p>
