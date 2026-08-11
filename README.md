@@ -11,9 +11,6 @@
  I am a BS Medical Laboratory Technology student at Government College University, Lahore, passionate about the intersection of clinical diagnostics and artificial intelligence.
 
 While mastering core lab disciplines; hematology, clinical biochemistry, microbiology, and molecular diagnostics, I am independently building skills in data science and machine learning to understand how AI can enhance laboratory accuracy, efficiency, and patient outcomes.
-
-Pakistan's diagnostic landscape is evolving, and I believe the future belongs to labs that combine strong bench science with smart technology.
-
 Currently learning: Python, data analysis, and AI applications in pathology. Always open to connecting with lab professionals, researchers, and health-tech innovators.
 
 # 🛠️ Skills & Technologies:
@@ -26,7 +23,7 @@ Currently learning: Python, data analysis, and AI applications in pathology. Alw
   <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://kimi-web-img.kimi.ai/img/uxwing.com/dd5318c048efaa189c9cd2660d813cabdd9edf22.png" alt="Kimi" width="40" height="40">
+ <img src="https://kimi-web-img.kimi.ai/img/uxwing.com/dd5318c048efaa189c9cd2660d813cabdd9edf22.png" alt="Kimi" width="40" height="40"> 
 
   <img src="https://img.shields.io/badge/Flowise-3B82F6?style=for-the-badge&logo=flowise&logoColor=white" />
 </p>
